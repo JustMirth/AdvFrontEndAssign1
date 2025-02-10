@@ -1,9 +1,11 @@
 import Navbar from "/components/Navbar.js"
+import Header from "/components/Header.js"
 
 export default function Home() {
   return (
     <>
-      <Navbar></Navbar>
+      <Header/>
+      <Navbar/>
     </>
   )
 }
