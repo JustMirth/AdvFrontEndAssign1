@@ -4,10 +4,7 @@ const Header = () => {
     return (
         <header>
             <h1>Welcome to Assignment 1</h1>
-            <br/>
-            <br/>
-            <p>From here you can either go look at Conditional Rendering or Event Handling.
-            </p>
+            <p>From here you can either go look at Conditional Rendering or Event Handling.</p>
         </header>
     );
 };
