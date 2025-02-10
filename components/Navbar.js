@@ -4,8 +4,8 @@ const Navbar = () => (
     <nav>
       <ul>
         <li><Link href="/">Home</Link></li>
-        <li><Link href="/page1">Page 1</Link></li>
-        <li><Link href="/page2">Page 2</Link></li>
+        <li><Link href="/page1">Conditional Rendering</Link></li>
+        <li><Link href="/page2">Event Handlers</Link></li>
       </ul>
     </nav>
 );
