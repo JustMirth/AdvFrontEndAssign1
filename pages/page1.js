@@ -8,7 +8,7 @@ export default function Home() {
       <br/>
       <br/>
       <br/>
-      <h2>Condtional Rendering</h2>
+      <h2>Conditional Rendering</h2>
       <CondRend/>
     </>
   )
